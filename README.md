@@ -1,4 +1,4 @@
-# Pure CSS Animation & Transitions
+# CSS Animations & Transitions
 
 ![screenshot](images/screenshot.png)
 
@@ -42,4 +42,4 @@ Project is: _in progress_.
 
 ## Contact
 
-Created by Ewelina Ślepko (slepko.ewelina@gmail.com) - feel free to contact me!
+Created by Donovan Herion (donovanherion@gmail.com) - feel free to contact me!
