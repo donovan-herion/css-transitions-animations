@@ -8,7 +8,7 @@
 - [Structure de la présentation](#structure-de-la-présentation)
 - [Technologies](#technologies)
 - [Environnement](#environnement)
-- [Status](#status)
+- [Statut du projet](#status-du-projet)
 - [Contact](#contact)
 
 ## Introduction
@@ -38,10 +38,10 @@ Pour suivre ce workshop dans les meilleures conditions:
 
 > `git clone git@github.com:donovan-herion/css-transitions-workshop.git`
 
-## Status
+## Statut du projet
 
-Project is: _in progress_.
+Le projet est: _en cours_.
 
 ## Contact
 
-Created by Donovan Herion (donovanherion@gmail.com) - feel free to contact me!
+Donovan Herion (donovanherion@gmail.com) - Contactez moi au besoin!
