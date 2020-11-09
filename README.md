@@ -2,16 +2,16 @@
 
 ![screenshot](images/screenshot.png)
 
-## Table of contents
+## Table des matières
 
-- [General info](#general-info)
+- [Introduction](#introduction)
 - [Structure de la présentation](#structure-de-la-présentation)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Status](#status)
 - [Contact](#contact)
 
-## General info
+## Introduction
 
 Ce workshop convient parfaitement aux débutants car les techniques de transitions et d'animations seront présentées depuis le point 0.
 
@@ -30,12 +30,13 @@ Il conviendra également aux personnes avec un niveau plus avancé afin de leur 
 - CSS3
 - Vanilla Javascript
 
-## Setup
+## Environnement
 
-To run this project, install it locally using npm:
+Pour suivre ce workshop dans les meilleures conditions:
 
 - Clone this repository
-  \$ git clone https://github.com/ewelina-slepko/Pure-CSS-Animation
+
+  > git@github.com:donovan-herion/css-transitions-workshop.git
 
 - Go into the repository
   \$ cd Pure-CSS-Animation
