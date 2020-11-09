@@ -8,7 +8,7 @@
 - [Structure de la présentation](#structure-de-la-présentation)
 - [Technologies](#technologies)
 - [Environnement](#environnement)
-- [Statut du projet](#status-du-projet)
+- [Statut du projet](#statut-du-projet)
 - [Contact](#contact)
 
 ## Introduction
