@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Structure de la présentation](#structure-de-la-présentation)
 - [Technologies](#technologies)
-- [Setup](#setup)
+- [Environnement](#environnement)
 - [Status](#status)
 - [Contact](#contact)
 
@@ -34,7 +34,7 @@ Il conviendra également aux personnes avec un niveau plus avancé afin de leur 
 
 Pour suivre ce workshop dans les meilleures conditions:
 
-- Clone this repository
+- Clonez ce repo sur votre pc
 
 > `git clone git@github.com:donovan-herion/css-transitions-workshop.git`
 
