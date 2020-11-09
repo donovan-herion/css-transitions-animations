@@ -7,18 +7,28 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [Structure de la présentation](#structure-de-la-présentation)
 - [Status](#status)
 - [Contact](#contact)
 
 ## General info
 
-This is pure CSS Animation: https://little-man-in-the-galaxy.firebaseapp.com/
+Ce workshop convient parfaitement aux débutants car les techniques de transitions et d'animations seront présentées depuis le point 0.
+
+Il conviendra également aux personnes avec un niveau plus avancé afin de leur permettre d'entreprendre une révision détaillée.
 
 ## Technologies
 
 - HTML5
-- SCSS
-- Firebase
+- CSS3
+- Vanilla Javascript
+
+## Structure de la présentation
+
+1. Transitions vs Animations
+2. Partie **animations** + exercices (optionnel)
+3. Partie **transitions** + exercices (optionnel)
+4. Partie **transitions on scroll** + exercices (recommandé)
 
 ## Setup
 
