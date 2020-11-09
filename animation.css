@@ -1,0 +1,12 @@
+/* Animation   | Changements d'états nombreux | Pas d'action requise du client pour la déclencher */
+
+body {
+  background: #ccc;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: white;
+}
