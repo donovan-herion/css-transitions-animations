@@ -5,9 +5,9 @@
 ## Table of contents
 
 - [General info](#general-info)
+- [Structure de la présentation](#structure-de-la-présentation)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Structure de la présentation](#structure-de-la-présentation)
 - [Status](#status)
 - [Contact](#contact)
 
@@ -17,18 +17,18 @@ Ce workshop convient parfaitement aux débutants car les techniques de transitio
 
 Il conviendra également aux personnes avec un niveau plus avancé afin de leur permettre d'entreprendre une révision détaillée.
 
-## Technologies
-
-- HTML5
-- CSS3
-- Vanilla Javascript
-
 ## Structure de la présentation
 
 1. Transitions vs Animations
 2. Partie **animation** + exercices (_optionnel_)
 3. Partie **transition** + exercices (_optionnel_)
 4. Partie **transition on scroll** + exercices (_recommandé_)
+
+## Technologies
+
+- HTML5
+- CSS3
+- Vanilla Javascript
 
 ## Setup
 
