@@ -26,9 +26,9 @@ Il conviendra également aux personnes avec un niveau plus avancé afin de leur 
 ## Structure de la présentation
 
 1. Transitions vs Animations
-2. Partie **animation** + exercices (optionnel)
-3. Partie **transition** + exercices (optionnel)
-4. Partie **transition on scroll** + exercices (recommandé)
+2. Partie **animation** + exercices (_optionnel_)
+3. Partie **transition** + exercices (_optionnel_)
+4. Partie **transition on scroll** + exercices (_recommandé_)
 
 ## Setup
 
