@@ -36,7 +36,7 @@ Pour suivre ce workshop dans les meilleures conditions:
 
 - Clonez ce repo sur votre pc
 
-> `git clone git@github.com:donovan-herion/css-transitions-workshop.git`
+> `git clone git@github.com:donovan-herion/css-transitions-animations.git`
 
 ## Statut du projet
 
