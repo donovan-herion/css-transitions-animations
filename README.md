@@ -1,4 +1,4 @@
-# CSS Animations & Transitions
+# CSS Transitions & Animations
 
 ![screenshot](images/screenshot.png)
 
@@ -36,7 +36,7 @@ Pour suivre ce workshop dans les meilleures conditions:
 
 - Clone this repository
 
-> git clone git@github.com:donovan-herion/css-transitions-workshop.git
+> `git clone git@github.com:donovan-herion/css-transitions-workshop.git`
 
 - Go into the repository
   \$ cd Pure-CSS-Animation
